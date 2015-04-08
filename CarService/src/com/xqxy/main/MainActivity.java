@@ -1,4 +1,6 @@
-package com.example.carservice;
+package com.xqxy.main;
+
+import com.example.carservice.R;
 
 import android.os.Bundle;
 import android.app.Activity;
