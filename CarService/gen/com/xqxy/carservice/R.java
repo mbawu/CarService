@@ -22,12 +22,20 @@ public final class R {
     }
     public static final class drawable {
         public static final int ic_launcher=0x7f020000;
+        public static final int index_1=0x7f020001;
+        public static final int index_2=0x7f020002;
+        public static final int index_3=0x7f020003;
     }
     public static final class id {
-        public static final int action_settings=0x7f080000;
+        public static final int action_settings=0x7f080002;
+        public static final int viewPager=0x7f080001;
+        public static final int viewpager=0x7f080000;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
+        public static final int guide_layout=0x7f030001;
+        public static final int image_view_fitxy=0x7f030002;
+        public static final int index_last_layout=0x7f030003;
     }
     public static final class menu {
         public static final int main=0x7f070000;
@@ -41,11 +49,13 @@ public final class R {
         /** 
         Base application theme, dependent on API level. This theme is replaced
         by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+
     
 
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
             backward-compatibility can go here.
+
         
 
         Base application theme for API 11+. This theme completely replaces
@@ -64,5 +74,6 @@ public final class R {
  All customizations that are NOT specific to a particular API-level can go here. 
          */
         public static final int AppTheme=0x7f060001;
+        public static final int MyTheme_Basic=0x7f060002;
     }
 }
