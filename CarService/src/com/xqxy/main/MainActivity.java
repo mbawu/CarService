@@ -7,10 +7,8 @@ import com.xqxy.carservice.R;
 import android.os.Bundle;
 
 import android.app.Activity;
-import android.os.Bundle;
 import android.view.Menu;
 
-import com.xqxy.carservice.R;
 
 public class MainActivity extends Activity {
 
